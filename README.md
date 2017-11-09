@@ -1,4 +1,5 @@
-#Hyperfuse
-##Hyper colors to keep you focused
+# Hyperfuse
+
+## Hyper colors to keep you focused
 
 ![Color](hyperswift.png)
